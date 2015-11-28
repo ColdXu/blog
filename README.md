@@ -1,8 +1,7 @@
 blog
 ===========
-这是我工作学习上的总结,用来记录一些方法和经验。
+第一次写博客，在工作学习遇到的一些问题或技巧我会把它们记录下来，作为一种分享。
 ### 2015/11    
 [微信页面开发遇到的问题](/draft/微信页面开发遇到的问题.md)    
 [理解的mvc](/draft/理解的mvc.md)    
-[移动端开发为什么使用iscroll](/draft/移动端开发为什么使用iscroll.md)    
-[sublimetext3 实用插件](http://example.com/ "http://example.com/")
+[sublimetext3 实用插件](/draft/学习上的一些记录.md "/draft/学习上的一些记录.md")
