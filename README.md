@@ -4,4 +4,4 @@ blog
 ### 2015/11    
 [微信页面开发遇到的问题](/draft/微信页面开发遇到的问题.md)    
 [理解的mvc](/draft/理解的mvc.md)    
-[sublimetext3 实用插件](/draft/学习上的记录.md)
+[sublimetext3 实用插件](/draft/sublimetext3 实用插.md)
