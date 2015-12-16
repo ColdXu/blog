@@ -1,5 +1,0 @@
-{
-	"scripts":{
-		"fms": "nodemon -w fms.js fms.js"
-	}
-}
