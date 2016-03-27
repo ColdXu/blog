@@ -8,5 +8,3 @@ blog
 ### 2015/11    
 [sublimetext3 实用插件](https://github.com/ColdXu/blog/issues/2)
 
-### 2016/2
-[热门JS库教程文档汇总](https://github.com/ColdXu/blog/issues/3)
